@@ -8,7 +8,7 @@ public class Rhombus {
         Rhombus rm = new Rhombus();
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter N : ");
+        System.out.print("Enter rhombus side symbols N : ");
         int n = sc.nextInt();
         System.out.print("Enter Symbol : ");
         char c = sc.next().charAt(0);

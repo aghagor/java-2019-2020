@@ -8,7 +8,7 @@ public class Triangle {
         Triangle triangle = new Triangle();
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter N : ");
+        System.out.print("Enter triangle side symbols N :");
         int n = sc.nextInt();
         System.out.print("Enter Symbol : ");
         char c = sc.next().charAt(0);
