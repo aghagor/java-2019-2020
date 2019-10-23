@@ -1,5 +1,7 @@
 package gor_aghajanyan.utils;
 
+import java.math.BigInteger;
+
 /**
  * Encapsulates the mathematical functions
  */
