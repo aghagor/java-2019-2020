@@ -1,4 +1,4 @@
-package gorAghajanyan_hw1;
+package utils;
 
 import java.util.Scanner;
 

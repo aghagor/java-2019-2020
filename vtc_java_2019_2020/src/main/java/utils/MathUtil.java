@@ -1,6 +1,4 @@
-package gor_aghajanyan.utils;
-
-import java.math.BigInteger;
+package utils;
 
 /**
  * Encapsulates the mathematical functions

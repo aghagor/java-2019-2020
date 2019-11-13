@@ -1,4 +1,4 @@
-package gor_aghajanyan_bracechecker;
+package java.bracechecker;
 
 public class BraceCheckerTest {
     public static void main(String[] args) {

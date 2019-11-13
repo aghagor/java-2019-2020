@@ -1,4 +1,4 @@
-package gorAghajanyan_hw2;
+package utils;
 
 import javax.swing.*;
 import java.util.Arrays;

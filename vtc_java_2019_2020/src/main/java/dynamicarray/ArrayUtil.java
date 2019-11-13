@@ -1,4 +1,4 @@
-package gorAghajanyan_dynamicarray;
+package gorAghajanyan.dynamicarray;
 
 import java.util.Random;
 

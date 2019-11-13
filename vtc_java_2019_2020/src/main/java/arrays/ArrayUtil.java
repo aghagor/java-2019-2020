@@ -1,4 +1,4 @@
-package gor_aghajanyan.arrays;
+package arrays;
 
 
 /**

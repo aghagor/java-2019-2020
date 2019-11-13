@@ -1,4 +1,4 @@
-package gorAghajanyan_dynamicarray;
+package gorAghajanyan.dynamicarray;
 
 
 public class DynamicArray {
